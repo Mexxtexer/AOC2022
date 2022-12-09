@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOC22": {
+      "commandName": "Project",
+      "commandLineArgs": "--dag 9"
+    }
+  }
+}

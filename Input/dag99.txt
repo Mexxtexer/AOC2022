@@ -1,0 +1,12 @@
+Amazon.com Inc. (ISIN: US0231351067);2;-17510,8
+Amazon.com Inc. (ISIN: US0231351067);-2;0
+Amazon.com Inc. (ISIN: US0231351067);40;0
+Amazon.com Inc. (ISIN: US0231351067);-20;19936,3
+test;10;1000
+test;5;250
+test;1;200
+test;-2;-500
+test;1;200
+test;-15;0
+test;75;0
+test;25;250

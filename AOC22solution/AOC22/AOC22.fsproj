@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Common.fs" />
+    <Compile Include="Input.fs" />
+    <Compile Include="Typer.fs" />
+    <Compile Include="Parameters.fs" />
+    <Compile Include="Dag1.fs" />
+    <Compile Include="Dag2.fs" />
+    <Compile Include="Dag3.fs" />
+    <Compile Include="Dag4.fs" />
+    <Compile Include="Dag5.fs" />
+    <Compile Include="Dag6.fs" />
+    <Compile Include="Dag7.fs" />
+    <Compile Include="Dag8.fs" />
+    <Compile Include="Dag9.fs" />
+    <Compile Include="Aktier.fs" />
+    <Compile Include="TomDag.fs" />
+    <Compile Include="Callparameters.fs" />
+    <Compile Include="ProgramBody.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Argu" Version="6.1.1" />
+  </ItemGroup>
+
+</Project>

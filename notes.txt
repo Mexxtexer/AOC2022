@@ -1,0 +1,3 @@
+aoc: skriv input-getter som henter den ned, hvis filen ikke findes, og læser filen ellers. 
+
+The ints (gets all integers from a string) function was used a lot - thanks again, mserrano!

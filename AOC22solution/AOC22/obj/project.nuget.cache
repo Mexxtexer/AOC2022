@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VknuPkqdikLhf9EsWfp+vawzxbQsEA/FgN+0d6DFWSUhCKo6sStlHdD/hk9r99ZDz7lLuqPUg29ZZJkzevHWw==",
+  "success": true,
+  "projectFilePath": "C:\\F sharp projekter\\AOC22\\AOC22solution\\AOC22\\AOC22.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAL\\.nuget\\packages\\argu\\6.1.1\\argu.6.1.1.nupkg.sha512",
+    "C:\\Users\\MAL\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512",
+    "C:\\Users\\MAL\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\MAL\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
